@@ -37,6 +37,31 @@ h1 {
 #hexBtn:hover {
   background: rgb(0, 0, 0);
 }
+
+#copy-btn {
+  padding: 10px;
+  text-transform: uppercase;
+  border: 2px solid #fefefe;
+  border-radius: 4px;
+  color: #fefefe;
+  background: rgba(0, 0, 0, 0.56);
+  cursor: pointer;
+  outline: none;
+}
+#copy-btn:hover {
+  background: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
 .footer {
   margin-top: 200px;
   color: #fefefe;
