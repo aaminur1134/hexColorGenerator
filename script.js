@@ -21,5 +21,6 @@ hexColorBtn.addEventListener('click', function () {
 
 copyBtn.addEventListener('click', function () {
     navigator.clipboard.writeText(hexCode.value);
+    alert(`${hexCode.value} Copied!`);
 });
 
